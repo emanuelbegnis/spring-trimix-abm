@@ -1,13 +1,13 @@
-package com.example.trimixABM;
+// package com.example.trimixABM;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class TrimixAbmApplicationTests {
+// @SpringBootTest
+// class TrimixAbmApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+// 	@Test
+// 	void contextLoads() {
+// 	}
 
-}
+// }

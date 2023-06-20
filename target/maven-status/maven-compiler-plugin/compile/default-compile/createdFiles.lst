@@ -1,0 +1,6 @@
+com\trimix\trimixABM\TrimixAbmApplication.class
+com\trimix\trimixABM\controller\Controller.class
+com\trimix\trimixABM\service\PersonaService.class
+com\trimix\trimixABM\repository\PersonaRepository.class
+com\trimix\trimixABM\service\IPersonaService.class
+com\trimix\trimixABM\model\Persona.class
